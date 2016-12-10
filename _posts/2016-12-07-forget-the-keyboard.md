@@ -18,8 +18,8 @@ I'm a late touch typer. I learned to type without looking in my 40s, after years
 
 Besides the unavoidable and boring hours of exercise, the trick that helped me the most was:
 
-> Stop thinking to *position of keys on the keyboard*,
->
+> Stop thinking to *position of keys on the keyboard*.
+> 
 > Only focus on *which finger to use*.
 
 ## A printed keyboard is a keyboard anyway
@@ -32,7 +32,8 @@ Yet, most of the web sites for learning touch typing suggest to use cheat sheets
 
 Do you see the problem? **As long as a cheat sheet represents a keyboard, the keyboard will be your reference**.<br />
 As a consequence, you will learn to rely on the keyboard; you will even struggle to mentally visualize it. <br />
-In all cases, you will be inevitably tempted to look at it, wherever it is represented. Unfortunately, looking at a keyboard printed on a sheet of paper is no better than looking to the physical keyboard, since the main goal is to type without looking at a keyboard.
+In all cases, you will be inevitably tempted to look at it, wherever it is represented. <br />
+Unfortunately, looking at a keyboard printed on a sheet of paper is no better than looking to the physical keyboard, since the main goal is to type without looking at a keyboard.
 
 Ideally, when you touch type, there's no keyboard at all in your thoughts: there's only a direct connection between the character you want to type and a finger movement.
 
