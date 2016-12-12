@@ -54,14 +54,15 @@ Now, with your fingers in that placement, you already know that the letter **`J`
 
 ![Position of letter j](static/img/hands-keyboard-j.jpg)
 
-Well, that's all you need to know  about **`J`**. Do you mind *where* the **`J`** key is, on the keyboard? No, you don't. Just don't think to the physical key under your finger. <br/>**Start thinking that your right hand index is the `J` letter**. As long you don't move your hands from the home row, that finger will always be the **`J`**. It's a simple association that your muscle memory will easily remember.
+Well, that's all you need to know  about **`J`**. Do you mind *where* the **`J`** key is, on the keyboard? No, you don't. Just don't think to the physical key under your finger. <br/>
+**Start thinking that your right hand index is the `J` letter**. As long you don't move your hands from the home row, that finger will always be the **`J`**. It's a simple association that your muscle memory will easily remember.
 
 Equally, do the same for the letter **`U`**.<br />
 For getting a **`U`** you have to move your right hand index up.
 
 ![Position of letter j](static/img/hands-keyboard-ju.jpg)
 
-Use the trick again: **there's no physical `U` key, it's your finger that has a `U` letter on its tip**. The cheat sheet can help you visualize it. You don't need to look or think to a keyboard to make it work.
+Use the trick again: **there's no physical `U` key, it's your finger that has a `U` letter on its tip**.
 
 ## Try it
 
